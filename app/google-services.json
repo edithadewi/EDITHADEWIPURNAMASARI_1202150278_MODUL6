@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "605331701571",
+    "firebase_url": "https://editha-dewi-purnama-sari120215.firebaseio.com",
+    "project_id": "editha-dewi-purnama-sari120215",
+    "storage_bucket": "editha-dewi-purnama-sari120215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605331701571:android:fa9dd9ac2360aada",
+        "android_client_info": {
+          "package_name": "modul6.editha_1202150278.edithadewipurnamasari_1202150278_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605331701571-7p87n1d0p06f15bsm22j7pgo7d92ecld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "modul6.editha_1202150278.edithadewipurnamasari_1202150278_modul6",
+            "certificate_hash": "78badd48969c0d0354eb73bbb3c28b4d52c534b8"
+          }
+        },
+        {
+          "client_id": "605331701571-rd4vi7duqghh8qb2sqh2idlkqsbf33ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbIRhIZlxrrl66fCVk8-WS9TQPnqOw4p4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605331701571-rd4vi7duqghh8qb2sqh2idlkqsbf33ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
